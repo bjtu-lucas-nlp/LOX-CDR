@@ -60,11 +60,10 @@ Our experiments use the Amazon Review Dataset with the following domain pairs:
 
 ## 🏗️ Architecture
 
-LOX-CDR consists of three main components:
+LOX-CDR consists of two main components:
 
-1. **Knowledge Extraction Module**: Extracts domain-specific and cross-domain features from user interactions
-2. **Logical Reasoning Engine**: Applies logical rules to generate explainable recommendation paths
-3. **LLM Integration Layer**: Enhances recommendations with natural language understanding and generation
+1. **Cross-domain sentiment-aware paradigm**: a cross-domain sentiment-aware paradigm to link aspects from user review feedback and associate preferences across domains
+2. **A logically-interpretable generator**: explicitly captures cross-domain reasoning paths.
 
 ## 🔬 Experiments
 
