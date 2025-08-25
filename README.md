@@ -4,7 +4,7 @@ Source code for LOX-CDR: Towards Logically Explainable Cross-Domain Recommendati
 
 # LOX-CDR: Towards Logically Explainable Cross-Domain Recommendation
 
-![Figure 2](https://github.com/bjtu-lucas-nlp/LOX-CDR/tree/main/figures/Fig-2.png)
+![Figure 2](https://github.com/bjtu-lucas-nlp/LOX-CDR/tree/main/figures/Fig-2.png)<img src="https://github.com/user-attachments/assets/xxxxxx/Fig-2.png" width="600">
 
 
 ## 📖 Overview
@@ -83,7 +83,7 @@ nohup python3 lox_cdr_main.py \
     --output_dir=Model/book2cd/model \
     --training_output=Model/book2cd/sft \
     > training_log_Bk2CD.txt 2>&1 &
-
+...
 ```
 
 ### Evaluation Metrics
