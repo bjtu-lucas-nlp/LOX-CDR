@@ -15,8 +15,6 @@ LOX-CDR is a novel framework for cross-domain recommendation that leverages logi
 
 - **Logical Explainability**: Provides transparent reasoning for cross-domain recommendations using logic-based approaches
 - **LLM Integration**: Leverages the power of large language models for enhanced understanding of user preferences across domains
-- **Flexible Architecture**: Supports multiple domain pairs and different recommendation scenarios
-- **State-of-the-art Performance**: Outperforms existing CDR baselines across various metrics
 
 ## 🚀 Quick Start
 
