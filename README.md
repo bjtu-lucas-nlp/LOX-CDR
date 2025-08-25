@@ -99,5 +99,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <p align="center">
-  Made with ❤️ by BJTU LUCAS NLP Lab
+  Made with ❤️ by Kezhi Lu at AAII of University of Technology Sydney Prof. Jie Lu Lab
 </p>
