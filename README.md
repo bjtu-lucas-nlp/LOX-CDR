@@ -47,9 +47,9 @@ Our experiments use the Amazon Review Dataset with the following domain pairs:
 
 | Domain Pair | Source → Target | Description |
 |------------|-----------------|-------------|
-| Pair 1 | Books → Movies | Related domains with similar user interests |
-| Pair 2 | Movies → Music | Entertainment domains with moderate overlap |
-| Pair 3 | Electronics → Food | Unrelated domains for testing generalization |
+| Pair 1 | Books → Movies | Related domains with similar user interests, Book->Movie |
+| Pair 2 | Books → CDs | Related domains with similar user interests, Book->CDs |
+| Pair 3 | Movies → CDs | Related domains with similar user interests, Movie->CDs |
 
 ### Data Preparation
 
