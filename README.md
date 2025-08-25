@@ -93,5 +93,5 @@ nohup python3 lox_cdr_main.py \
 ---
 
 <p align="center">
-  Made with ❤️ by Kezhi Lu at AAII of University of Technology Sydney Prof. Jie Lu Lab
+  Made by Kezhi Lu at AAII of the University of Technology Sydney, Prof. Jie Lu Lab
 </p>
